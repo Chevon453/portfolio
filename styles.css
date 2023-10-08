@@ -1,3 +1,46 @@
 body{
-    background-color: rgb(113, 116, 116);
+    background-color: rosybrown;
 }
+
+h1{
+    margin-bottom: 60px;
+    margin-top: 80px;
+    margin-left: 190px;
+}
+
+
+
+nav>.btn{
+    color:aqua;
+    margin-right: 100px;
+    background-color: rosybrown ;
+}
+
+.flex-sample{
+    margin-top: 10px;
+    margin-left: 500px;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.card{
+    text-align: center;
+    color: teal;
+}
+
+.Sample{
+    text-align: center;
+    align-items: center;
+}
+
+.Pro{
+    text-align: center;
+}
+
+.Flex{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
